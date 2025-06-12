@@ -19,12 +19,12 @@
 
 3. **Create the repository**:
    ```bash
-   gh repo create amp-usage-model-canva --public --description "Predictive forecasting tool for Canva to model and budget Amp spend as AI adoption scales across teams"
+   gh repo create amp-usage-model --public --description "Predictive forecasting tool to model and budget Amp spend as AI adoption scales across teams"
    ```
 
 4. **Push the code**:
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/amp-usage-model-canva.git
+   git remote add origin https://github.com/YOUR_USERNAME/amp-usage-model.git
    git branch -M main
    git push -u origin main
    ```
@@ -35,14 +35,14 @@
 2. **Click the "+" icon** in the top right corner
 3. **Select "New repository"**
 4. **Repository details**:
-   - Repository name: `amp-usage-model-canva`
-   - Description: `Predictive forecasting tool for Canva to model and budget Amp spend as AI adoption scales across teams`
+   - Repository name: `amp-usage-model`
+   - Description: `Predictive forecasting tool to model and budget Amp spend as AI adoption scales across teams`
    - Visibility: Public
    - Don't initialize with README (we already have one)
 
 5. **After creating, run these commands**:
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/amp-usage-model-canva.git
+   git remote add origin https://github.com/YOUR_USERNAME/amp-usage-model.git
    git branch -M main
    git push -u origin main
    ```
@@ -66,12 +66,12 @@ To make it accessible via a web URL:
 5. Choose **main** branch and **/ (root)** folder
 6. Click **Save**
 
-Your site will be available at: `https://YOUR_USERNAME.github.io/amp-usage-model-canva/`
+Your site will be available at: `https://YOUR_USERNAME.github.io/amp-usage-model/`
 
 ## Files Ready for Deployment
 
 ✅ `amp_growth_model (1).html` - Main application
-✅ `canva logo.png` - Canva logo asset  
+✅ `index.html` - Main application  
 ✅ `README.md` - Project documentation
 ✅ `.gitignore` - Git ignore rules
 ✅ Git repository initialized and committed

@@ -1,6 +1,6 @@
-# Amp Usage Growth Model for Canva
+# Amp Usage Growth Model
 
-A predictive forecasting tool designed for Canva to model and budget Amp spend as AI adoption scales across teams.
+A predictive forecasting tool to model and budget Amp spend as AI adoption scales across teams.
 
 ## Features
 
@@ -68,4 +68,4 @@ This tool runs entirely in the browser - simply open the HTML file or deploy to 
 
 ---
 
-Built with ❤️ by Amp for Canva's growth planning needs.
+Built by ampcode.com for growth planning needs.
