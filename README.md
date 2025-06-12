@@ -106,4 +106,4 @@ Powered by Chart.js for beautiful, interactive visualizations
 
 ---
 
-**Built with [ampcode.com](https://ampcode.com)** - Transforming AI development workflows
+**Built with [ampcode.com](https://ampcode.com)**
